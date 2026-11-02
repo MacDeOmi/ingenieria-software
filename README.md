@@ -18,8 +18,8 @@ El diseño sigue una arquitectura modular en capas basada en el patrón MVC y ap
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/tu-usuario/tu-repositorio.git
-cd tu-repositorio
+git clone https://github.com/MacDeOmi/ingenieria-software.git
+cd ingenieria-software
 ```
 
 ### 2. Instalar dependencias
